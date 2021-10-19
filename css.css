@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url("https://cofee.cc/wp-content/uploads/2019/08/1044.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+img{
+    position: relative;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    left:565px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.644);
+}
+#button{
+    position:relative;
+    top: 60px;
+    width: 200px;
+    height: 40px;
+    background-color: rgb(57, 180, 19);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.438);
+    left: 280px;
+    font-size: 25px;
+}
+
